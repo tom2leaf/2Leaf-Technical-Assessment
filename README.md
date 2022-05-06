@@ -6,7 +6,7 @@ You will be provided with the following:
 
 * This repository, which includes a blank html, css, and javascript file where you will write your code. 
 * A design file using Figma, an online web development software we us for designs
-* [Figma File](https://www.figma.com/file/5l22ti4pFgFKSnlA93ouM7/LevelUp?node-id=22%3A2)
+* [Figma File](https://www.figma.com/file/5l22ti4pFgFKSnlA93ouM7/branch/bWXSVeZJBLDgog0ysvTWGT/LevelUp?node-id=22%3A2)
 * An assets folder containing all of the images that are used in the design file, for your convenience. 
 
 ### How do I get set up? ###
